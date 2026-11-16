@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import os
 import pandas as pd
 from src.preprocessing import (
@@ -258,4 +257,3 @@ print(
     "%"
 )
 print("\nPROJECT EXECUTION COMPLETED")
->>>>>>> 0c69f79599572605ed994ae4f180fa6e30afcc75
