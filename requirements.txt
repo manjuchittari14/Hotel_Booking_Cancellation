@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 fastapi
 uvicorn
 pandas
@@ -6,3 +7,12 @@ scikit-learn
 python-multipart
 
 
+=======
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+streamlit
+
+>>>>>>> 0c69f79599572605ed994ae4f180fa6e30afcc75
