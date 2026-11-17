@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import pandas as pd
 from pathlib import Path
 from fastapi import FastAPI, HTTPException
@@ -334,4 +333,3 @@ def health():
         "status": "Healthy",
         "model": "Trained and Ready"
     }
->>>>>>> 0c69f79599572605ed994ae4f180fa6e30afcc75
